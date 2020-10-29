@@ -20,7 +20,7 @@ function setup() {
 
 
   
-  	wall=createSprite(850,200, 60, height/2)
+  	wall=createSprite(1500,200, 60, height/2)
   	wall.shapeColor=color(80,80,80)
 }
 
